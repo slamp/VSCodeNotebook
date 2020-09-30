@@ -1,7 +1,11 @@
 *.txt
 *.md
+*.todo
 *.pyc
 __pycache__
 .DS_Store
 settings.json
 .release/
+diary/*
+public/*
+otherNotes/*
